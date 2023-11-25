@@ -73,11 +73,14 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 
 
-
+***PUBLIC MANGODB URL***
 ```
-mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
 ```
-
+***TEMPLEAT**
+```
+https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasiimd
+```
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `MONGODB_URL` | `string` | **Required**. Your Bot Cannot run without this|
