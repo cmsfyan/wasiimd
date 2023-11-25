@@ -1,22 +1,22 @@
-## `XLICON-MD`
+## `WASI-MD`
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=0000FF&center=true&width=900&height=100&lines=ItX WaSi-MD;Multi+Device+Whatsapp+Bot;Developed+By+WASI TECH " alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/4a3cdd7e16ab2b891e68c.jpg"> 
     </p>
-    <h1 align="center">XLICON-1.O<br></h1>
+    <h1 align="center">WASI-1.O<br></h1>
     
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/itxxwasi"><img title="Author" src="https://img.shields.io/badge/WASI-OFFICAL-pink?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
+<a href="https://github.com/itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/itxxwasi?label=Followers&style=social"></a>
 <a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
 <a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
 <a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
@@ -26,7 +26,7 @@
 
 </br>
 
-<h2 align="center"> Star the repo if u like it🌟
+<h2 align="center">MUST STAR THIS REPO OTHER WAISE BOT WILL NOT DEPLOYED 🌟
 </h2>
 
 ## `Notice`
@@ -40,9 +40,9 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/itxxwasi/wasiimd/fork"><img title="WASI-1.0" src="https://img.shields.io/badge/FORK WASI-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+2. Scan the QR and upload the `Session` to ***WASI-SECTION*** 
     <br>
 <a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
@@ -98,10 +98,10 @@ After this fill the vars by your own information and paste this JSON to your Rep
 {
   "SESSION_ID": "ID-Here",
   "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "SalmanAhmad",
+  "OWNER_NAME": "Wasi",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
-  "PACK_INFO": "WABOT;Xlicon",
+  "PACK_INFO": "WABOT;wasi",
   "PREFIX": "."
    
 }
