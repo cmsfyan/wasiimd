@@ -1,6 +1,6 @@
 { 
   "name": "WASIIMD",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
+  "description": "A Whatsapp md bot built in NodeJs to make experience better created by wasi",
   "logo": "https://telegra.ph/file/bbbb20c3b5ae1ea29d099.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "wasii Bot", "wasi","wasi md","theme bot","multi device","baileys"],
   "success_url": "/",
