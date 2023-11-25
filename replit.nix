@@ -17,4 +17,3 @@
   };
 } 
 
-it me wasi tech
