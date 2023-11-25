@@ -6,10 +6,10 @@
                "type": "commonjs",
                "license": "GPL-3.0",
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name xlicon",
-                  "stop": "pm2 stop xlicon"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasii",
+                  "stop": "pm2 stop wasii"
                },
-               "author": "salmanytofficial",
+               "author": "itxxwasi",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
