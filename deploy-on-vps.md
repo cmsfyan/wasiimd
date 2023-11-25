@@ -25,7 +25,7 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/salmanytofficial/XLICON-MD
+      git clone https://github.com/Itxxwasi/wasiimd
       cd XLICON-MD
       yarn install --network-concurrency 1
       ```
@@ -41,11 +41,11 @@
       OWNER_NUMBER="92xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
-      THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/bbbb20c3b5ae1ea29d099.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
-      global_url = "www.instagram.com/itz_shaikho/_"
-      OWNER_NAME = "SALMAN"
+      global_url = "www.instagram.com/chwaseem565/_"
+      OWNER_NAME = "Wasi"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= GOJO
       WORKTYPE = public
-      PACK_INFO = "XLICON MD;WA BOT"
+      PACK_INFO = "WSI;WA BOT"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
