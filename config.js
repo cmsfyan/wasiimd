@@ -3,24 +3,24 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER || "923192173398"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
+global.owner = process.env.OWNER_NUMBER || "923044250023"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'itxmewasi@gmail.com'
-global.github = 'https://github.com/itxxwasi/wasiimd'
+global.github = 'https://github.com/cmsfyan/wasiimd'
 global.location = 'Lahore Pak'
-global.gurl = 'https://instagram.com/chwaseem565' // add your username
-global.sudo = process.env.SUDO || '923192173398' 
-global.devs = '923192173398';
-global.website = 'https://github.com/itxxwasi/wasiimd' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/bbbb20c3b5ae1ea29d099.jpg'
+global.gurl = 'https://instagram.com/cmsfyan' // add your username
+global.sudo = process.env.SUDO ||'923044250023';
+global.devs = '923044250023';
+global.website = 'https://github.com/cmsfyan/wasiimd' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ad1e705677575f8354f4d.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  '',
   packname:  process.env.PACK_NAME || '',
    
-  botname:   process.env.BOT_NAME === undefined ? "wasiimd" : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'wasi' : process.env.OWNER_NAME,  
+  botname:   process.env.BOT_NAME === undefined ? "CM SAFYAN" : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '923044250023' : process.env.OWNER_NAME,  
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
