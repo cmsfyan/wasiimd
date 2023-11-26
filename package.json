@@ -6,10 +6,10 @@
                "type": "commonjs",
                "license": "GPL-3.0",
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasii",
-                  "stop": "pm2 stop wasii"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name CMSFYAN",
+                  "stop": "pm2 stop CMSAFYAN"
                },
-               "author": "itxxwasi",
+               "author": "CMSFYAN",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
