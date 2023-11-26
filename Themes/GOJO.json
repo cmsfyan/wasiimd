@@ -1,26 +1,26 @@
 
 {
     "_JSON_": true,
-    "AUTHOR": "WASI MD",
+    "AUTHOR": "CM SAFYAN",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
         "updater": {
-            "UPDATE": "Your bot is already on latest version wasiimd!",
+            "UPDATE": "Your bot is already on latest version CM!",
             "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
-            "UPDATED_LOCAL": "Fresh Updates Installed in wasi tech!"
+            "UPDATED_LOCAL": "Fresh Updates Installed in CM SAFYAN!"
         },
         "global": {
             "botName": " GOJO SATURO ",
             "body": " SUKAAMUNAA!! ",
             "greet2" : "Hey Baka! I'm the strongest",
-            "pic1": "https://telegra.ph/file/b7e80ec69f4646d5e1108.jpg",
+            "pic1": "https://telegra.ph/file/ad1e705677575f8354f4d.jpg",
             "pic2": "https://i.imgur.com/5KkBqDf.jpeg",
-            "pic3": "https://telegra.ph/file/4a3cdd7e16ab2b891e68c.jpg",
-            "pic4": "https://telegra.ph/file/76a20b4f97e5a976f44f3.jpg",
-            "pic5": "https://telegra.ph/file/b7e80ec69f4646d5e1108.jpg",
-            "pic6": "https://telegra.ph/file/38c5d014bdb0f37fc4f8f.jpg",
-            "pic7": "https://telegra.ph/file/4a3cdd7e16ab2b891e68c.jpg",
+            "pic3": "https://telegra.ph/file/4d6ff578477934bc25455.jpg",
+            "pic4": "https://telegra.ph/file/ad1e705677575f8354f4d.jpg",
+            "pic5": "https://telegra.ph/file/ad1e705677575f8354f4d.jpg",
+            "pic6": "https://telegra.ph/file/ad1e705677575f8354f4d.jpg",
+            "pic7": "https://telegra.ph/file/ad1e705677575f8354f4d.jpg",
              "greet" : "Oi",
            "dotbody" : "Yup.I am here.", 
             "emijii" : "🎍",
@@ -36,7 +36,7 @@
             "mention": " Please mention any user Baka!",
             "title": "GOJO SATURO",
             "footer": "Baka! I'm Here!",
-            "by": "Made by: WASI MD",
+            "by": "Made by: CM SAFYAN",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
             "dot": "Baka!, Why don't you try .help",
